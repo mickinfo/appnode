@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo-nodeJS",
+  "version": "1.0.0",
+  "description": "Es una app Hello World en nodejS",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "18.14.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
